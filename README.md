@@ -4,7 +4,7 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fescii&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=fescii&layout=compact&theme=highcontrast&show_icons=true&count_private=true)
+
 
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Currently working on [ammie](https://aduki-inc.github.io/ammie) (Nairobi, Kenya) \
