@@ -4,7 +4,7 @@
 <br>
 ### Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fescii&langs_count=10&layout=compact&theme=aura)
+
 
 
 
