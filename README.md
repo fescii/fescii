@@ -5,6 +5,9 @@
 ### Languages
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fescii&langs_count=12&layout=compact&theme=aura)
+
+
 
 
 
