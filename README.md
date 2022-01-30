@@ -7,6 +7,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fescii&langs_count=12&layout=compact&theme=aura)
 
+<h3>Streaks and Stats</h3>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fescii&amp;theme=nord" alt="GitHub Streaks" width="49%" />
+
+</p>
+ <br />
+
 
 
 
