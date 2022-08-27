@@ -15,7 +15,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=fescii&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=fescii&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
 
 
 
