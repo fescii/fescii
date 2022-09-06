@@ -28,11 +28,6 @@
 
 
 <br>
----
-Ranks
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=fescii)](https://github.com/ryo-ma/github-profile-trophy)
-<br />
 
 &nbsp;&nbsp;&nbsp;Visit my Personal Website [here](https://www.femar.co.ke/)
 
