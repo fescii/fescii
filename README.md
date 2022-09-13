@@ -1,19 +1,22 @@
 ### Femar Stats
----
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fescii&theme=github_dark)
+
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
----
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=fescii&theme=highcontrast&show_icons=true&count_private=true)
 <br>
 ### Commits 
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fescii&theme=github_dark)
+
+<h3>Top Langs</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fescii&theme=github_dark)
 
 <h3>Streaks and Stats</h3>
 <p>
