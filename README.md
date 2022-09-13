@@ -10,10 +10,10 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fescii&theme=highcontrast&show_icons=true&count_private=true)
 <br>
-### Languages
+### Commits 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fescii&langs_count=12&layout=compact&theme=aura)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fescii&theme=github_dark)
 
 <h3>Streaks and Stats</h3>
 <p>
