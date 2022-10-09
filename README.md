@@ -26,16 +26,6 @@
 
 </p>
 
-### Commits 
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fescii&theme=github_dark)
-
-<h3>Top Langs</h3>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fescii&theme=github_dark)
-
-
  <br />
 
 [![](https://visitcount.itsvg.in/api?id=fescii&label=Profile%20Views&color=0&icon=6&pretty=false)](https://visitcount.itsvg.in)
