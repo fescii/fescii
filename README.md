@@ -16,7 +16,7 @@
  <a href="https://twitter.com/femar_will"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-### Stats
+### Github Stats 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fescii&theme=github_dark)
 
