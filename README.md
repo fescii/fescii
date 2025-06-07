@@ -1,1 +1,1 @@
-<h3>Invisible hands. Relentless systems. Quiet control.</h3>
+<p>Quiet control.</p>
