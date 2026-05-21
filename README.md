@@ -6,4 +6,8 @@ Hi, I'm femar!
 - Currently porting and upstreaming packages for LoongArch via AOSC and NixOS
 - [aduki.org](https://aduki.org) is my company where I work on innovative projects
 
+## Currently Working On
+
+**mail** — A comprehensive mail server with full SMTP/IMAP/POP3/CardDAV protocol support alongside a REST API, per-tenant spam classification, Kafka-driven event bus, and pluggable object storage — all in a single deployable binary.
+
 ![](https://github-readme-stats-beryl-theta-93.vercel.app/api?username=fescii&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=dark&count_private=true&text_bold=false&hide_title=true)
